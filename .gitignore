@@ -1,0 +1,11 @@
+# Compiled class files
+*.class
+
+# Output images
+*_blob.png
+*_blob_ec.png
+
+# IDE
+.vscode/
+.idea/
+*.iml
